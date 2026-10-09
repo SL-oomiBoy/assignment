@@ -88,7 +88,7 @@ php artisan test
 
 ---
 
-## 📋 One-Page Architecture & Design Document
+## 📋 Architecture & Design Document
 
 ### 1. Stack Choices & Justification
 * **Backend:** **Laravel 11 (PHP)** — Exceptional developer velocity, expressive Eloquent ORM, built-in transactions with database row locking (`lockForUpdate()`), and native Policy/Gate authorization.
